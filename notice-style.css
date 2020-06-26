@@ -1,11 +1,10 @@
 #gg {
-	background: #ffff9980 none repeat scroll 0 0;
+	background: #00000090 none repeat scroll 0 0;
 	/* bottom: 5;*/
 	top:0px;
 	height: 18px;
 	line-height: 15px;
-                color: #ffff00;
-	opacity: 0.99;
+                color: #fff;
 	position: relative;
 	width: 100%;
 	z-index: 9999;
