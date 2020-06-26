@@ -1,0 +1,22 @@
+#gg {
+	background: #ffff9980 none repeat scroll 0 0;
+	/* bottom: 5;*/
+	top:0px;
+	height: 18px;
+	line-height: 15px;
+                color: #ffff00;
+	opacity: 0.99;
+	position: relative;
+	width: 100%;
+	z-index: 9999;
+}
+#gg a {
+	color: #fff;
+	letter-spacing: 2px;
+}
+.close a {
+	float: center;
+	margin: 0 0px 0 0;
+ul li {
+	list-style-type:none;
+}
